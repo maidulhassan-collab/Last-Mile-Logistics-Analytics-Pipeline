@@ -1,11 +1,41 @@
 # End-to-End Last-Mile Logistics Analytics Pipeline
 
-**Python • PostgreSQL • dbt • Apache Airflow • Power BI**
+<p align="center">
+  <b>An End-to-End Data Engineering, Analytics Engineering, Workflow Orchestration & Business Intelligence Project</b>
+</p>
 
-A portfolio data engineering and business intelligence project that demonstrates how raw last-mile logistics data can be **ingested, validated, transformed, tested, orchestrated, and converted into decision-ready analytics**.
+<p align="center">
+  Python • PostgreSQL • dbt • Apache Airflow • Power BI • Pandas • SQL • WSL2
+</p>
 
-> **Data note:** This project uses a synthetic logistics dataset created for learning and portfolio demonstration. It does not represent confidential or production data from any real company.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-ETL-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/dbt-Analytics%20Engineering-FF694B?logo=dbt&logoColor=white" alt="dbt">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas&logoColor=white" alt="Pandas">
+</p>
 
+<p align="center">
+  <b>60K Orders • 4.24M+ Tracking Events • 16/16 dbt Tests Passed • 5/5 Airflow Tasks Successful</b>
+</p>
+
+![Project Overview](https://github.com/maidulhassan-collab/Last-Mile-Logistics-Analytics-Pipeline/blob/main/presentation_gif.gif)
+
+---
+
+## Project Overview
+
+This project demonstrates a complete last-mile logistics analytics workflow, transforming raw operational data into validated, analytics-ready datasets and executive-level business intelligence.
+
+The pipeline integrates:
+
+**CSV Source Data → Python ETL → PostgreSQL → dbt Transformations → dbt Testing → Apache Airflow → Power BI**
+
+The project covers the complete analytics lifecycle, including data ingestion, validation, relational storage, analytical modelling, automated testing, workflow orchestration, and dashboard development.
+
+> **Note:** The project uses synthetic logistics data created for portfolio and learning purposes.
 ---
 
 ## Project Highlights
@@ -30,7 +60,7 @@ A portfolio data engineering and business intelligence project that demonstrates
 ## Dashboard Preview
 
 <p align="center">
-  <img src="docs/dashboard.png" alt="Last-Mile Logistics Power BI Dashboard" width="900"/>
+  <img src="https://github.com/maidulhassan-collab/Last-Mile-Logistics-Analytics-Pipeline/blob/main/powerbi_snap.png" width="900"/>
 </p>
 
 The Power BI executive dashboard summarizes operational delivery performance through:
@@ -276,9 +306,6 @@ TOTAL=16
 
 **All 16 configured dbt tests passed successfully.**
 
-<p align="center">
-  <img src="docs/dbt_tests.png" alt="dbt test success" width="800"/>
-</p>
 
 ---
 
@@ -310,9 +337,6 @@ The dependency chain ensures that:
 
 **All five Airflow tasks completed successfully.**
 
-<p align="center">
-  <img src="docs/airflow_success.png" alt="Airflow DAG successful execution" width="800"/>
-</p>
 
 ---
 
@@ -374,12 +398,12 @@ The repository can include the following portfolio artifacts:
 
 ### Portfolio Files
 
-- [View Full Project Report](docs/Last_Mile_Logistics_Analytics_Project_Report.pdf)
-- [View Project Presentation](docs/Last_Mile_Logistics_Analytics_Presentation.pptx)
+- [View Full Project Report](https://github.com/maidulhassan-collab/Last-Mile-Logistics-Analytics-Pipeline/blob/main/Last_Mile_Logistics_Analytics_Project_Report.pdf)
+- [View Project Presentation](https://github.com/maidulhassan-collab/Last-Mile-Logistics-Analytics-Pipeline/blob/main/Last_Mile_Logistics_presentation.pptx)
 
 If the Power BI `.pbix` file is included in the repository:
 
-- [Open Power BI Project File](dashboard/Last_Mile_Logistics_Analytics_Dashboard.pbix)
+- [Open Power BI Project File](https://github.com/maidulhassan-collab/Last-Mile-Logistics-Analytics-Pipeline/blob/main/Last_Mile_Logistics_Analytics_Dashboard.pbix)
 
 ---
 
