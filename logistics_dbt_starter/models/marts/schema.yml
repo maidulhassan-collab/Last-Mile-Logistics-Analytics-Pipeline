@@ -1,0 +1,89 @@
+version: 2
+
+models:
+  - name: fct_orders
+    description: >
+      Order-level fact model for last-mile logistics analysis.
+      Grain: one row per order. Combines cleaned order attributes
+      with summarized tracking-event outcomes and derived delivery KPIs.
+
+    columns:
+      - name: order_id
+        description: Unique order identifier and primary key of the model.
+        data_tests:
+          - not_null
+          - unique
+
+      - name: merchant_id
+        description: Merchant associated with the order.
+        data_tests:
+          - not_null
+
+      - name: final_status
+        description: Final operational status of the order.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values:
+                  - Delivered
+                  - Returned
+                  - Failed
+                  - Cancelled
+                  - In Transit
+                  - Out For Delivery
+
+      - name: sla_compliant_flag
+        description: >
+          1 when a delivered order met the promised delivery date,
+          0 when delivered late, and NULL when SLA is not yet evaluable.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [0, 1]
+                quote: false
+
+      - name: first_attempt_delivery_flag
+        description: >
+          1 when delivered without a previous failed attempt,
+          0 when delivered after at least one failed attempt,
+          and NULL when the order has not been delivered.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [0, 1]
+                quote: false
+
+      - name: delivery_tat_hours
+        description: Delivery turnaround time in hours from order creation to successful delivery.
+
+  - name: mart_daily_kpi
+    description: >
+      Daily business KPI mart derived from fct_orders.
+      Grain: one row per order creation date.
+
+    columns:
+      - name: order_date
+        description: Calendar date used as the grain of the daily KPI mart.
+        data_tests:
+          - not_null
+          - unique
+
+      - name: total_orders
+        description: Total number of orders created on the date.
+        data_tests:
+          - not_null
+
+      - name: delivered_orders
+        description: Number of orders with Delivered final status.
+
+      - name: returned_orders
+        description: Number of orders with Returned final status.
+
+      - name: delivery_success_rate_pct
+        description: Delivered orders divided by non-cancelled eligible orders, expressed as a percentage.
+
+      - name: sla_compliance_pct
+        description: Percentage of delivered/evaluable orders meeting the promised delivery date.
+
+      - name: avg_delivery_tat_hours
+        description: Average delivery turnaround time in hours among delivered orders.

@@ -1,0 +1,601 @@
+merchant_id,merchant_name,segment,industry,base_city,base_hub_id,onboard_date,acquisition_channel,default_order_source,active_flag
+M0001,Merchant 0001,Micro,Electronics,Chattogram,H004,2022-12-22,Partner,WooCommerce,Y
+M0002,Merchant 0002,Micro,Electronics,Dhaka,H003,2024-10-31,Digital Campaign,Shopify,Y
+M0003,Merchant 0003,Enterprise,Home & Living,Dhaka,H001,2024-04-13,Partner,WooCommerce,Y
+M0004,Merchant 0004,Growth,Food,Narayanganj,H006,2023-02-01,Direct Sales,CSV Upload,Y
+M0005,Merchant 0005,Micro,Beauty,Narayanganj,H006,2023-01-30,Digital Campaign,WooCommerce,Y
+M0006,Merchant 0006,Micro,Books,Chattogram,H004,2024-10-04,Direct Sales,API,Y
+M0007,Merchant 0007,Micro,Pharmacy,Chattogram,H004,2023-06-25,Digital Campaign,Shopify,N
+M0008,Merchant 0008,SME,Electronics,Dhaka,H002,2024-06-07,Direct Sales,WooCommerce,Y
+M0009,Merchant 0009,Micro,Pharmacy,Rajshahi,H009,2023-02-20,Partner,Web Portal,Y
+M0010,Merchant 0010,SME,Grocery,Narayanganj,H006,2022-09-22,Organic,Shopify,Y
+M0011,Merchant 0011,Growth,Grocery,Gazipur,H005,2023-12-18,Referral,API,N
+M0012,Merchant 0012,Growth,Food,Gazipur,H005,2023-03-06,Organic,CSV Upload,Y
+M0013,Merchant 0013,Enterprise,Food,Chattogram,H004,2024-03-22,Referral,Web Portal,Y
+M0014,Merchant 0014,SME,Accessories,Rangpur,H011,2022-11-20,Organic,CSV Upload,Y
+M0015,Merchant 0015,Growth,Accessories,Dhaka,H003,2022-07-30,Digital Campaign,CSV Upload,N
+M0016,Merchant 0016,SME,Books,Narayanganj,H006,2023-01-07,Digital Campaign,Shopify,Y
+M0017,Merchant 0017,SME,Books,Dhaka,H002,2024-11-23,Direct Sales,Web Portal,Y
+M0018,Merchant 0018,SME,Accessories,Dhaka,H001,2022-12-12,Direct Sales,WooCommerce,Y
+M0019,Merchant 0019,Micro,Fashion,Sylhet,H008,2023-04-15,Partner,Shopify,Y
+M0020,Merchant 0020,Growth,Electronics,Mymensingh,H012,2024-05-31,Digital Campaign,CSV Upload,Y
+M0021,Merchant 0021,SME,Food,Dhaka,H003,2024-08-07,Organic,WooCommerce,Y
+M0022,Merchant 0022,Growth,Fashion,Dhaka,H001,2024-07-14,Partner,WooCommerce,Y
+M0023,Merchant 0023,SME,Books,Gazipur,H005,2023-01-02,Organic,API,Y
+M0024,Merchant 0024,Micro,Beauty,Sylhet,H008,2024-06-28,Organic,Shopify,Y
+M0025,Merchant 0025,SME,Pharmacy,Narayanganj,H006,2024-03-01,Partner,WooCommerce,Y
+M0026,Merchant 0026,SME,Pharmacy,Khulna,H010,2023-08-03,Partner,Web Portal,Y
+M0027,Merchant 0027,Micro,Beauty,Chattogram,H004,2022-09-24,Direct Sales,API,Y
+M0028,Merchant 0028,Growth,Books,Rajshahi,H009,2023-02-14,Organic,Shopify,Y
+M0029,Merchant 0029,SME,Pharmacy,Narayanganj,H006,2024-03-30,Partner,Web Portal,Y
+M0030,Merchant 0030,SME,Electronics,Narayanganj,H006,2024-11-06,Partner,WooCommerce,Y
+M0031,Merchant 0031,SME,Fashion,Khulna,H010,2023-07-13,Partner,WooCommerce,Y
+M0032,Merchant 0032,Enterprise,Books,Dhaka,H002,2024-07-04,Direct Sales,API,Y
+M0033,Merchant 0033,SME,Beauty,Chattogram,H004,2023-12-17,Direct Sales,WooCommerce,Y
+M0034,Merchant 0034,Micro,Fashion,Dhaka,H003,2024-07-03,Referral,CSV Upload,Y
+M0035,Merchant 0035,SME,Accessories,Dhaka,H002,2023-03-18,Digital Campaign,API,Y
+M0036,Merchant 0036,SME,Books,Chattogram,H004,2023-12-06,Digital Campaign,Web Portal,Y
+M0037,Merchant 0037,SME,Grocery,Dhaka,H003,2024-10-25,Organic,CSV Upload,Y
+M0038,Merchant 0038,SME,Home & Living,Gazipur,H005,2023-01-24,Direct Sales,API,Y
+M0039,Merchant 0039,SME,Beauty,Rajshahi,H009,2022-10-21,Partner,Shopify,Y
+M0040,Merchant 0040,Micro,Electronics,Mymensingh,H012,2023-08-20,Referral,Web Portal,Y
+M0041,Merchant 0041,Micro,Accessories,Khulna,H010,2024-09-12,Organic,WooCommerce,Y
+M0042,Merchant 0042,Micro,Books,Dhaka,H002,2023-11-06,Direct Sales,Web Portal,Y
+M0043,Merchant 0043,Micro,Fashion,Dhaka,H002,2024-10-10,Direct Sales,CSV Upload,Y
+M0044,Merchant 0044,SME,Grocery,Cumilla,H007,2024-02-04,Partner,CSV Upload,Y
+M0045,Merchant 0045,Micro,Books,Dhaka,H003,2024-04-04,Organic,Web Portal,Y
+M0046,Merchant 0046,SME,Beauty,Gazipur,H005,2023-07-06,Referral,Web Portal,Y
+M0047,Merchant 0047,SME,Accessories,Dhaka,H002,2022-09-11,Referral,Web Portal,Y
+M0048,Merchant 0048,SME,Accessories,Narayanganj,H006,2023-08-01,Organic,Shopify,Y
+M0049,Merchant 0049,SME,Fashion,Chattogram,H004,2023-03-08,Direct Sales,CSV Upload,Y
+M0050,Merchant 0050,Micro,Beauty,Gazipur,H005,2024-02-27,Digital Campaign,API,Y
+M0051,Merchant 0051,SME,Books,Khulna,H010,2024-04-05,Referral,Web Portal,Y
+M0052,Merchant 0052,Micro,Beauty,Dhaka,H001,2024-11-24,Partner,Web Portal,Y
+M0053,Merchant 0053,SME,Food,Khulna,H010,2023-01-09,Referral,Web Portal,Y
+M0054,Merchant 0054,SME,Home & Living,Cumilla,H007,2022-09-03,Organic,WooCommerce,Y
+M0055,Merchant 0055,Micro,Accessories,Chattogram,H004,2023-02-16,Digital Campaign,API,Y
+M0056,Merchant 0056,Micro,Pharmacy,Dhaka,H002,2023-03-30,Direct Sales,API,Y
+M0057,Merchant 0057,Micro,Food,Dhaka,H001,2023-03-27,Referral,Web Portal,Y
+M0058,Merchant 0058,SME,Beauty,Narayanganj,H006,2023-10-14,Referral,Web Portal,Y
+M0059,Merchant 0059,SME,Home & Living,Chattogram,H004,2024-02-07,Digital Campaign,WooCommerce,Y
+M0060,Merchant 0060,Growth,Beauty,Cumilla,H007,2023-08-02,Direct Sales,Shopify,Y
+M0061,Merchant 0061,SME,Fashion,Sylhet,H008,2024-03-09,Partner,WooCommerce,N
+M0062,Merchant 0062,Micro,Books,Rangpur,H011,2023-05-11,Partner,API,Y
+M0063,Merchant 0063,SME,Accessories,Dhaka,H003,2024-02-09,Referral,Shopify,Y
+M0064,Merchant 0064,Growth,Home & Living,Dhaka,H003,2022-12-10,Partner,Web Portal,Y
+M0065,Merchant 0065,Micro,Grocery,Gazipur,H005,2024-10-27,Partner,WooCommerce,Y
+M0066,Merchant 0066,SME,Pharmacy,Narayanganj,H006,2022-12-13,Organic,API,Y
+M0067,Merchant 0067,Micro,Electronics,Gazipur,H005,2022-09-05,Partner,Shopify,N
+M0068,Merchant 0068,SME,Books,Rajshahi,H009,2022-09-17,Organic,WooCommerce,Y
+M0069,Merchant 0069,Growth,Pharmacy,Gazipur,H005,2024-06-25,Partner,Web Portal,Y
+M0070,Merchant 0070,Micro,Fashion,Narayanganj,H006,2024-08-23,Digital Campaign,Shopify,Y
+M0071,Merchant 0071,Micro,Beauty,Dhaka,H003,2024-11-16,Direct Sales,CSV Upload,Y
+M0072,Merchant 0072,Growth,Electronics,Dhaka,H001,2024-07-05,Partner,Web Portal,N
+M0073,Merchant 0073,SME,Electronics,Chattogram,H004,2024-02-22,Digital Campaign,Shopify,Y
+M0074,Merchant 0074,SME,Home & Living,Dhaka,H003,2022-08-15,Referral,CSV Upload,Y
+M0075,Merchant 0075,SME,Home & Living,Chattogram,H004,2022-12-12,Partner,WooCommerce,Y
+M0076,Merchant 0076,SME,Pharmacy,Dhaka,H003,2024-06-28,Partner,Shopify,Y
+M0077,Merchant 0077,Micro,Home & Living,Gazipur,H005,2023-02-27,Partner,WooCommerce,Y
+M0078,Merchant 0078,Micro,Food,Chattogram,H004,2023-07-23,Partner,WooCommerce,Y
+M0079,Merchant 0079,SME,Grocery,Cumilla,H007,2024-09-18,Direct Sales,Shopify,Y
+M0080,Merchant 0080,SME,Pharmacy,Khulna,H010,2023-01-14,Partner,CSV Upload,Y
+M0081,Merchant 0081,Micro,Fashion,Dhaka,H002,2024-11-02,Digital Campaign,CSV Upload,Y
+M0082,Merchant 0082,Micro,Grocery,Dhaka,H001,2022-10-05,Direct Sales,Shopify,Y
+M0083,Merchant 0083,Enterprise,Accessories,Khulna,H010,2023-02-21,Digital Campaign,Shopify,Y
+M0084,Merchant 0084,Micro,Home & Living,Dhaka,H003,2024-02-08,Direct Sales,Shopify,Y
+M0085,Merchant 0085,SME,Grocery,Chattogram,H004,2023-05-24,Digital Campaign,API,Y
+M0086,Merchant 0086,SME,Books,Dhaka,H002,2022-10-02,Direct Sales,WooCommerce,Y
+M0087,Merchant 0087,SME,Electronics,Khulna,H010,2023-03-02,Referral,Web Portal,Y
+M0088,Merchant 0088,SME,Beauty,Gazipur,H005,2024-08-26,Organic,CSV Upload,Y
+M0089,Merchant 0089,Micro,Fashion,Dhaka,H003,2023-01-22,Partner,WooCommerce,Y
+M0090,Merchant 0090,SME,Home & Living,Dhaka,H002,2023-11-03,Referral,Shopify,Y
+M0091,Merchant 0091,SME,Fashion,Dhaka,H001,2022-11-16,Partner,Shopify,Y
+M0092,Merchant 0092,Micro,Grocery,Sylhet,H008,2022-08-29,Direct Sales,Shopify,Y
+M0093,Merchant 0093,Micro,Food,Rajshahi,H009,2023-04-18,Digital Campaign,WooCommerce,N
+M0094,Merchant 0094,SME,Books,Dhaka,H002,2023-04-21,Organic,Shopify,Y
+M0095,Merchant 0095,SME,Home & Living,Sylhet,H008,2023-05-31,Direct Sales,API,Y
+M0096,Merchant 0096,SME,Pharmacy,Dhaka,H003,2022-09-29,Partner,Web Portal,Y
+M0097,Merchant 0097,Micro,Electronics,Gazipur,H005,2023-07-09,Referral,API,Y
+M0098,Merchant 0098,SME,Books,Khulna,H010,2023-06-22,Direct Sales,Shopify,Y
+M0099,Merchant 0099,Enterprise,Books,Mymensingh,H012,2024-07-21,Direct Sales,Web Portal,Y
+M0100,Merchant 0100,SME,Accessories,Dhaka,H003,2023-11-20,Organic,WooCommerce,Y
+M0101,Merchant 0101,SME,Pharmacy,Narayanganj,H006,2024-03-21,Referral,Web Portal,Y
+M0102,Merchant 0102,Micro,Home & Living,Dhaka,H003,2023-08-19,Digital Campaign,Web Portal,N
+M0103,Merchant 0103,SME,Beauty,Gazipur,H005,2022-12-03,Partner,Web Portal,Y
+M0104,Merchant 0104,Micro,Accessories,Dhaka,H003,2023-03-11,Partner,Web Portal,Y
+M0105,Merchant 0105,Micro,Pharmacy,Cumilla,H007,2022-10-16,Direct Sales,API,Y
+M0106,Merchant 0106,Growth,Pharmacy,Rangpur,H011,2022-10-31,Direct Sales,CSV Upload,Y
+M0107,Merchant 0107,Micro,Pharmacy,Khulna,H010,2023-05-09,Partner,CSV Upload,Y
+M0108,Merchant 0108,SME,Home & Living,Chattogram,H004,2023-03-11,Digital Campaign,Web Portal,Y
+M0109,Merchant 0109,Growth,Grocery,Dhaka,H003,2024-05-22,Direct Sales,CSV Upload,Y
+M0110,Merchant 0110,SME,Electronics,Narayanganj,H006,2024-08-09,Partner,Web Portal,Y
+M0111,Merchant 0111,Growth,Beauty,Narayanganj,H006,2023-08-28,Referral,CSV Upload,Y
+M0112,Merchant 0112,Micro,Home & Living,Rangpur,H011,2023-09-01,Referral,API,Y
+M0113,Merchant 0113,Micro,Accessories,Dhaka,H001,2024-03-20,Digital Campaign,Shopify,Y
+M0114,Merchant 0114,Enterprise,Fashion,Dhaka,H003,2023-10-14,Digital Campaign,CSV Upload,Y
+M0115,Merchant 0115,SME,Electronics,Dhaka,H002,2022-09-19,Direct Sales,API,Y
+M0116,Merchant 0116,Enterprise,Beauty,Gazipur,H005,2024-07-21,Direct Sales,Shopify,Y
+M0117,Merchant 0117,Micro,Beauty,Dhaka,H002,2024-10-15,Digital Campaign,Shopify,Y
+M0118,Merchant 0118,Micro,Accessories,Chattogram,H004,2023-03-27,Partner,Shopify,Y
+M0119,Merchant 0119,SME,Pharmacy,Narayanganj,H006,2023-08-26,Organic,Shopify,Y
+M0120,Merchant 0120,SME,Home & Living,Dhaka,H003,2024-07-10,Partner,API,Y
+M0121,Merchant 0121,SME,Food,Rajshahi,H009,2024-06-01,Organic,API,Y
+M0122,Merchant 0122,Micro,Beauty,Narayanganj,H006,2023-04-29,Referral,CSV Upload,Y
+M0123,Merchant 0123,Growth,Accessories,Sylhet,H008,2024-07-07,Organic,Shopify,Y
+M0124,Merchant 0124,Micro,Food,Dhaka,H001,2024-03-22,Referral,CSV Upload,Y
+M0125,Merchant 0125,Micro,Home & Living,Rajshahi,H009,2024-11-10,Referral,Shopify,N
+M0126,Merchant 0126,SME,Pharmacy,Gazipur,H005,2024-09-21,Direct Sales,Shopify,Y
+M0127,Merchant 0127,Growth,Grocery,Dhaka,H003,2023-07-15,Organic,Shopify,Y
+M0128,Merchant 0128,SME,Pharmacy,Dhaka,H001,2023-06-21,Referral,Shopify,Y
+M0129,Merchant 0129,Micro,Fashion,Rajshahi,H009,2023-08-20,Referral,Web Portal,Y
+M0130,Merchant 0130,SME,Electronics,Dhaka,H003,2023-10-10,Digital Campaign,API,Y
+M0131,Merchant 0131,Micro,Grocery,Dhaka,H002,2024-04-09,Organic,Web Portal,Y
+M0132,Merchant 0132,Growth,Home & Living,Dhaka,H002,2023-04-22,Referral,Shopify,Y
+M0133,Merchant 0133,SME,Fashion,Dhaka,H003,2023-02-10,Partner,WooCommerce,Y
+M0134,Merchant 0134,Growth,Grocery,Rajshahi,H009,2022-12-10,Partner,CSV Upload,Y
+M0135,Merchant 0135,SME,Pharmacy,Dhaka,H001,2022-08-25,Direct Sales,API,Y
+M0136,Merchant 0136,Growth,Accessories,Mymensingh,H012,2024-02-17,Organic,WooCommerce,Y
+M0137,Merchant 0137,Growth,Home & Living,Dhaka,H003,2024-03-21,Direct Sales,WooCommerce,Y
+M0138,Merchant 0138,Micro,Accessories,Mymensingh,H012,2024-08-24,Direct Sales,Web Portal,Y
+M0139,Merchant 0139,SME,Electronics,Narayanganj,H006,2023-06-02,Organic,API,N
+M0140,Merchant 0140,Micro,Books,Dhaka,H001,2023-08-17,Partner,Shopify,Y
+M0141,Merchant 0141,SME,Accessories,Dhaka,H002,2022-12-23,Partner,API,Y
+M0142,Merchant 0142,SME,Beauty,Dhaka,H003,2024-06-23,Direct Sales,API,Y
+M0143,Merchant 0143,SME,Electronics,Gazipur,H005,2022-12-13,Partner,CSV Upload,Y
+M0144,Merchant 0144,SME,Grocery,Dhaka,H003,2024-08-12,Partner,CSV Upload,Y
+M0145,Merchant 0145,SME,Home & Living,Dhaka,H001,2023-03-05,Referral,CSV Upload,Y
+M0146,Merchant 0146,Micro,Books,Chattogram,H004,2023-01-09,Referral,WooCommerce,Y
+M0147,Merchant 0147,Micro,Fashion,Dhaka,H001,2024-06-23,Partner,WooCommerce,N
+M0148,Merchant 0148,Micro,Beauty,Gazipur,H005,2024-09-22,Digital Campaign,Web Portal,Y
+M0149,Merchant 0149,Micro,Food,Rajshahi,H009,2023-10-12,Partner,API,Y
+M0150,Merchant 0150,Growth,Beauty,Narayanganj,H006,2024-09-23,Organic,API,Y
+M0151,Merchant 0151,SME,Books,Cumilla,H007,2022-07-16,Referral,Shopify,Y
+M0152,Merchant 0152,Enterprise,Home & Living,Narayanganj,H006,2024-10-04,Partner,Shopify,Y
+M0153,Merchant 0153,SME,Pharmacy,Rajshahi,H009,2024-04-12,Direct Sales,Web Portal,Y
+M0154,Merchant 0154,SME,Books,Dhaka,H001,2023-12-09,Organic,WooCommerce,Y
+M0155,Merchant 0155,Enterprise,Beauty,Rajshahi,H009,2023-07-10,Digital Campaign,API,Y
+M0156,Merchant 0156,SME,Fashion,Rajshahi,H009,2022-11-23,Referral,API,Y
+M0157,Merchant 0157,SME,Food,Gazipur,H005,2022-07-29,Digital Campaign,Shopify,Y
+M0158,Merchant 0158,SME,Fashion,Cumilla,H007,2023-08-10,Organic,CSV Upload,Y
+M0159,Merchant 0159,Micro,Electronics,Narayanganj,H006,2022-10-15,Referral,Shopify,Y
+M0160,Merchant 0160,SME,Pharmacy,Khulna,H010,2024-11-30,Partner,Shopify,Y
+M0161,Merchant 0161,SME,Pharmacy,Mymensingh,H012,2024-09-28,Digital Campaign,WooCommerce,Y
+M0162,Merchant 0162,SME,Fashion,Chattogram,H004,2024-02-17,Direct Sales,Web Portal,Y
+M0163,Merchant 0163,SME,Electronics,Gazipur,H005,2022-11-22,Referral,Web Portal,Y
+M0164,Merchant 0164,Growth,Electronics,Rajshahi,H009,2024-05-01,Direct Sales,API,Y
+M0165,Merchant 0165,SME,Electronics,Cumilla,H007,2024-03-30,Organic,API,Y
+M0166,Merchant 0166,SME,Pharmacy,Gazipur,H005,2024-04-17,Partner,Web Portal,Y
+M0167,Merchant 0167,SME,Beauty,Chattogram,H004,2024-02-13,Direct Sales,CSV Upload,Y
+M0168,Merchant 0168,SME,Food,Rangpur,H011,2023-11-02,Partner,Shopify,Y
+M0169,Merchant 0169,Enterprise,Grocery,Sylhet,H008,2023-12-20,Referral,CSV Upload,Y
+M0170,Merchant 0170,Micro,Grocery,Khulna,H010,2024-02-10,Direct Sales,Shopify,Y
+M0171,Merchant 0171,Micro,Accessories,Dhaka,H001,2023-03-29,Partner,CSV Upload,Y
+M0172,Merchant 0172,SME,Grocery,Dhaka,H003,2022-09-15,Organic,Shopify,Y
+M0173,Merchant 0173,Micro,Food,Dhaka,H001,2023-12-25,Direct Sales,WooCommerce,Y
+M0174,Merchant 0174,Enterprise,Books,Dhaka,H002,2023-01-29,Direct Sales,WooCommerce,Y
+M0175,Merchant 0175,Micro,Home & Living,Dhaka,H003,2023-07-28,Digital Campaign,CSV Upload,Y
+M0176,Merchant 0176,Micro,Books,Chattogram,H004,2024-02-12,Partner,Web Portal,Y
+M0177,Merchant 0177,SME,Grocery,Dhaka,H003,2023-10-04,Referral,WooCommerce,Y
+M0178,Merchant 0178,SME,Home & Living,Dhaka,H001,2024-08-10,Direct Sales,CSV Upload,Y
+M0179,Merchant 0179,SME,Pharmacy,Gazipur,H005,2024-07-23,Partner,API,Y
+M0180,Merchant 0180,SME,Beauty,Sylhet,H008,2024-02-08,Digital Campaign,API,Y
+M0181,Merchant 0181,Growth,Books,Dhaka,H003,2022-09-10,Direct Sales,CSV Upload,Y
+M0182,Merchant 0182,Micro,Pharmacy,Khulna,H010,2024-08-25,Partner,WooCommerce,Y
+M0183,Merchant 0183,SME,Beauty,Dhaka,H003,2024-11-28,Direct Sales,Web Portal,Y
+M0184,Merchant 0184,Micro,Fashion,Dhaka,H001,2023-01-09,Direct Sales,WooCommerce,Y
+M0185,Merchant 0185,SME,Accessories,Mymensingh,H012,2024-04-14,Digital Campaign,WooCommerce,Y
+M0186,Merchant 0186,SME,Pharmacy,Chattogram,H004,2023-10-05,Referral,Shopify,Y
+M0187,Merchant 0187,SME,Books,Narayanganj,H006,2023-08-12,Referral,CSV Upload,Y
+M0188,Merchant 0188,Micro,Grocery,Dhaka,H001,2023-05-15,Organic,Web Portal,Y
+M0189,Merchant 0189,SME,Home & Living,Dhaka,H001,2024-02-04,Direct Sales,Web Portal,Y
+M0190,Merchant 0190,SME,Grocery,Dhaka,H002,2024-02-20,Organic,Shopify,Y
+M0191,Merchant 0191,Micro,Books,Chattogram,H004,2023-12-07,Referral,Shopify,Y
+M0192,Merchant 0192,SME,Accessories,Gazipur,H005,2023-10-24,Digital Campaign,Web Portal,N
+M0193,Merchant 0193,Micro,Books,Gazipur,H005,2023-11-07,Referral,WooCommerce,Y
+M0194,Merchant 0194,SME,Home & Living,Cumilla,H007,2022-12-05,Digital Campaign,API,Y
+M0195,Merchant 0195,Micro,Accessories,Gazipur,H005,2023-03-21,Direct Sales,API,Y
+M0196,Merchant 0196,Enterprise,Electronics,Khulna,H010,2024-02-07,Referral,WooCommerce,Y
+M0197,Merchant 0197,Enterprise,Books,Chattogram,H004,2023-09-23,Partner,WooCommerce,Y
+M0198,Merchant 0198,SME,Pharmacy,Cumilla,H007,2023-08-13,Organic,CSV Upload,Y
+M0199,Merchant 0199,Growth,Food,Khulna,H010,2023-03-25,Organic,Shopify,Y
+M0200,Merchant 0200,Micro,Home & Living,Gazipur,H005,2023-07-20,Referral,Web Portal,Y
+M0201,Merchant 0201,SME,Grocery,Narayanganj,H006,2024-05-06,Partner,Shopify,Y
+M0202,Merchant 0202,Micro,Pharmacy,Rajshahi,H009,2024-01-29,Digital Campaign,Web Portal,Y
+M0203,Merchant 0203,Growth,Books,Cumilla,H007,2022-12-17,Referral,CSV Upload,Y
+M0204,Merchant 0204,Growth,Books,Khulna,H010,2024-10-01,Organic,CSV Upload,Y
+M0205,Merchant 0205,SME,Accessories,Cumilla,H007,2024-03-02,Organic,WooCommerce,Y
+M0206,Merchant 0206,Micro,Accessories,Gazipur,H005,2023-04-25,Partner,Shopify,Y
+M0207,Merchant 0207,SME,Food,Cumilla,H007,2024-02-24,Partner,CSV Upload,Y
+M0208,Merchant 0208,SME,Home & Living,Dhaka,H001,2024-11-27,Partner,CSV Upload,Y
+M0209,Merchant 0209,Micro,Home & Living,Mymensingh,H012,2023-10-18,Digital Campaign,CSV Upload,Y
+M0210,Merchant 0210,SME,Home & Living,Gazipur,H005,2022-08-09,Partner,Web Portal,Y
+M0211,Merchant 0211,SME,Accessories,Chattogram,H004,2023-07-30,Partner,Web Portal,Y
+M0212,Merchant 0212,Growth,Fashion,Dhaka,H002,2022-10-31,Digital Campaign,CSV Upload,Y
+M0213,Merchant 0213,SME,Electronics,Dhaka,H003,2022-08-28,Digital Campaign,API,Y
+M0214,Merchant 0214,SME,Home & Living,Narayanganj,H006,2024-10-26,Direct Sales,API,Y
+M0215,Merchant 0215,SME,Home & Living,Dhaka,H001,2022-11-05,Digital Campaign,Shopify,N
+M0216,Merchant 0216,SME,Books,Chattogram,H004,2024-11-26,Referral,API,Y
+M0217,Merchant 0217,Enterprise,Home & Living,Sylhet,H008,2024-10-05,Direct Sales,Shopify,Y
+M0218,Merchant 0218,SME,Accessories,Dhaka,H002,2024-07-15,Direct Sales,Shopify,Y
+M0219,Merchant 0219,SME,Accessories,Gazipur,H005,2023-01-26,Direct Sales,WooCommerce,N
+M0220,Merchant 0220,SME,Food,Sylhet,H008,2023-12-16,Referral,CSV Upload,Y
+M0221,Merchant 0221,SME,Food,Chattogram,H004,2024-10-23,Direct Sales,WooCommerce,Y
+M0222,Merchant 0222,SME,Fashion,Dhaka,H002,2023-01-07,Partner,WooCommerce,Y
+M0223,Merchant 0223,SME,Books,Narayanganj,H006,2023-08-27,Digital Campaign,CSV Upload,Y
+M0224,Merchant 0224,SME,Grocery,Gazipur,H005,2024-11-15,Referral,API,Y
+M0225,Merchant 0225,Growth,Fashion,Dhaka,H001,2022-10-16,Referral,Shopify,Y
+M0226,Merchant 0226,Micro,Home & Living,Khulna,H010,2023-05-28,Digital Campaign,Web Portal,Y
+M0227,Merchant 0227,SME,Fashion,Narayanganj,H006,2024-02-16,Organic,WooCommerce,Y
+M0228,Merchant 0228,SME,Pharmacy,Khulna,H010,2023-07-24,Referral,Web Portal,Y
+M0229,Merchant 0229,SME,Accessories,Khulna,H010,2024-06-14,Organic,API,Y
+M0230,Merchant 0230,SME,Accessories,Chattogram,H004,2023-12-10,Direct Sales,API,Y
+M0231,Merchant 0231,Micro,Home & Living,Sylhet,H008,2024-03-19,Organic,WooCommerce,Y
+M0232,Merchant 0232,Growth,Home & Living,Chattogram,H004,2024-09-18,Partner,CSV Upload,Y
+M0233,Merchant 0233,Growth,Fashion,Cumilla,H007,2023-04-16,Digital Campaign,WooCommerce,Y
+M0234,Merchant 0234,Growth,Food,Narayanganj,H006,2022-10-26,Digital Campaign,API,Y
+M0235,Merchant 0235,Micro,Accessories,Dhaka,H002,2022-08-04,Partner,WooCommerce,Y
+M0236,Merchant 0236,SME,Pharmacy,Dhaka,H003,2023-06-30,Direct Sales,API,Y
+M0237,Merchant 0237,SME,Grocery,Chattogram,H004,2024-12-02,Partner,API,Y
+M0238,Merchant 0238,Micro,Accessories,Chattogram,H004,2024-07-16,Referral,Web Portal,Y
+M0239,Merchant 0239,Growth,Grocery,Gazipur,H005,2024-04-14,Organic,API,Y
+M0240,Merchant 0240,SME,Pharmacy,Chattogram,H004,2023-05-30,Direct Sales,WooCommerce,Y
+M0241,Merchant 0241,Micro,Accessories,Gazipur,H005,2023-08-02,Direct Sales,Shopify,Y
+M0242,Merchant 0242,Micro,Accessories,Dhaka,H001,2024-09-11,Referral,Web Portal,Y
+M0243,Merchant 0243,Micro,Electronics,Rangpur,H011,2022-08-04,Partner,API,Y
+M0244,Merchant 0244,SME,Books,Khulna,H010,2024-07-12,Organic,API,Y
+M0245,Merchant 0245,Micro,Beauty,Dhaka,H001,2023-11-14,Digital Campaign,API,Y
+M0246,Merchant 0246,SME,Fashion,Dhaka,H002,2023-10-13,Direct Sales,CSV Upload,Y
+M0247,Merchant 0247,SME,Pharmacy,Mymensingh,H012,2024-08-28,Partner,WooCommerce,Y
+M0248,Merchant 0248,Micro,Grocery,Sylhet,H008,2022-08-13,Partner,Shopify,Y
+M0249,Merchant 0249,Growth,Accessories,Chattogram,H004,2022-09-20,Direct Sales,CSV Upload,Y
+M0250,Merchant 0250,Growth,Electronics,Dhaka,H003,2023-10-29,Partner,Shopify,Y
+M0251,Merchant 0251,SME,Books,Dhaka,H001,2023-08-24,Digital Campaign,WooCommerce,Y
+M0252,Merchant 0252,Micro,Grocery,Khulna,H010,2024-10-24,Partner,API,Y
+M0253,Merchant 0253,SME,Pharmacy,Khulna,H010,2023-01-18,Partner,CSV Upload,Y
+M0254,Merchant 0254,Growth,Books,Sylhet,H008,2024-09-19,Digital Campaign,CSV Upload,Y
+M0255,Merchant 0255,SME,Beauty,Chattogram,H004,2023-08-27,Direct Sales,WooCommerce,Y
+M0256,Merchant 0256,Micro,Fashion,Dhaka,H003,2022-08-12,Digital Campaign,Shopify,Y
+M0257,Merchant 0257,SME,Fashion,Dhaka,H002,2023-10-05,Partner,Shopify,Y
+M0258,Merchant 0258,SME,Electronics,Gazipur,H005,2023-12-06,Referral,WooCommerce,Y
+M0259,Merchant 0259,Growth,Books,Chattogram,H004,2022-11-10,Organic,WooCommerce,Y
+M0260,Merchant 0260,Growth,Beauty,Dhaka,H001,2024-03-01,Organic,Web Portal,Y
+M0261,Merchant 0261,Micro,Pharmacy,Gazipur,H005,2024-01-26,Partner,Shopify,Y
+M0262,Merchant 0262,Micro,Home & Living,Chattogram,H004,2022-07-24,Digital Campaign,Web Portal,Y
+M0263,Merchant 0263,Micro,Fashion,Khulna,H010,2023-08-07,Direct Sales,API,Y
+M0264,Merchant 0264,Micro,Fashion,Mymensingh,H012,2024-06-25,Direct Sales,Shopify,Y
+M0265,Merchant 0265,SME,Fashion,Dhaka,H001,2023-02-24,Organic,API,Y
+M0266,Merchant 0266,SME,Food,Chattogram,H004,2024-06-19,Referral,Web Portal,Y
+M0267,Merchant 0267,SME,Books,Dhaka,H003,2023-07-15,Organic,Shopify,Y
+M0268,Merchant 0268,Micro,Food,Dhaka,H003,2024-03-09,Partner,Web Portal,Y
+M0269,Merchant 0269,SME,Food,Chattogram,H004,2023-11-24,Digital Campaign,Shopify,N
+M0270,Merchant 0270,SME,Grocery,Sylhet,H008,2022-11-27,Digital Campaign,Shopify,Y
+M0271,Merchant 0271,SME,Books,Dhaka,H003,2023-09-23,Referral,Shopify,Y
+M0272,Merchant 0272,Micro,Beauty,Dhaka,H002,2023-09-20,Direct Sales,WooCommerce,Y
+M0273,Merchant 0273,Micro,Home & Living,Chattogram,H004,2024-08-16,Organic,CSV Upload,Y
+M0274,Merchant 0274,Growth,Grocery,Mymensingh,H012,2022-08-06,Organic,Web Portal,Y
+M0275,Merchant 0275,SME,Accessories,Narayanganj,H006,2024-01-16,Digital Campaign,API,Y
+M0276,Merchant 0276,Micro,Food,Sylhet,H008,2024-02-05,Organic,Web Portal,Y
+M0277,Merchant 0277,Growth,Pharmacy,Rajshahi,H009,2022-10-24,Referral,WooCommerce,Y
+M0278,Merchant 0278,Micro,Fashion,Dhaka,H003,2024-11-10,Partner,WooCommerce,Y
+M0279,Merchant 0279,SME,Pharmacy,Cumilla,H007,2023-08-22,Organic,WooCommerce,Y
+M0280,Merchant 0280,Growth,Electronics,Dhaka,H001,2023-08-31,Partner,API,Y
+M0281,Merchant 0281,SME,Beauty,Dhaka,H001,2022-08-27,Partner,Web Portal,Y
+M0282,Merchant 0282,Micro,Books,Dhaka,H001,2023-05-31,Referral,WooCommerce,Y
+M0283,Merchant 0283,Micro,Fashion,Dhaka,H003,2024-05-25,Organic,API,Y
+M0284,Merchant 0284,Micro,Food,Dhaka,H001,2022-12-20,Direct Sales,CSV Upload,Y
+M0285,Merchant 0285,Growth,Books,Dhaka,H003,2024-10-11,Partner,CSV Upload,Y
+M0286,Merchant 0286,Growth,Home & Living,Dhaka,H003,2024-08-10,Organic,CSV Upload,Y
+M0287,Merchant 0287,SME,Accessories,Cumilla,H007,2022-07-23,Referral,Shopify,Y
+M0288,Merchant 0288,Micro,Grocery,Dhaka,H001,2024-11-26,Digital Campaign,API,Y
+M0289,Merchant 0289,Micro,Fashion,Khulna,H010,2023-05-17,Organic,API,Y
+M0290,Merchant 0290,Enterprise,Food,Rajshahi,H009,2023-03-22,Partner,WooCommerce,Y
+M0291,Merchant 0291,SME,Fashion,Chattogram,H004,2023-08-28,Referral,Shopify,Y
+M0292,Merchant 0292,SME,Accessories,Rajshahi,H009,2024-08-20,Partner,WooCommerce,Y
+M0293,Merchant 0293,Micro,Beauty,Dhaka,H001,2023-05-08,Referral,WooCommerce,N
+M0294,Merchant 0294,Micro,Beauty,Dhaka,H003,2022-09-01,Digital Campaign,CSV Upload,Y
+M0295,Merchant 0295,SME,Books,Mymensingh,H012,2023-08-12,Partner,WooCommerce,Y
+M0296,Merchant 0296,Growth,Books,Mymensingh,H012,2023-07-30,Organic,CSV Upload,Y
+M0297,Merchant 0297,Enterprise,Home & Living,Dhaka,H001,2024-05-09,Organic,Web Portal,Y
+M0298,Merchant 0298,Micro,Books,Rangpur,H011,2023-05-28,Digital Campaign,API,Y
+M0299,Merchant 0299,Enterprise,Electronics,Rajshahi,H009,2022-09-04,Digital Campaign,WooCommerce,Y
+M0300,Merchant 0300,Growth,Food,Chattogram,H004,2024-09-01,Partner,WooCommerce,Y
+M0301,Merchant 0301,Micro,Accessories,Rajshahi,H009,2023-08-26,Digital Campaign,Web Portal,Y
+M0302,Merchant 0302,Growth,Pharmacy,Khulna,H010,2024-02-17,Partner,API,Y
+M0303,Merchant 0303,SME,Fashion,Gazipur,H005,2022-07-22,Organic,Shopify,Y
+M0304,Merchant 0304,Enterprise,Accessories,Dhaka,H001,2023-12-12,Digital Campaign,API,Y
+M0305,Merchant 0305,Growth,Books,Gazipur,H005,2024-09-28,Direct Sales,WooCommerce,Y
+M0306,Merchant 0306,SME,Electronics,Dhaka,H001,2024-06-16,Partner,CSV Upload,Y
+M0307,Merchant 0307,Enterprise,Food,Dhaka,H002,2023-08-05,Direct Sales,Shopify,Y
+M0308,Merchant 0308,SME,Pharmacy,Dhaka,H003,2023-11-06,Digital Campaign,Shopify,Y
+M0309,Merchant 0309,Enterprise,Home & Living,Dhaka,H001,2023-11-29,Organic,CSV Upload,Y
+M0310,Merchant 0310,Growth,Beauty,Sylhet,H008,2024-01-23,Referral,Shopify,Y
+M0311,Merchant 0311,SME,Pharmacy,Sylhet,H008,2024-03-12,Digital Campaign,API,Y
+M0312,Merchant 0312,Micro,Books,Dhaka,H001,2023-01-20,Direct Sales,API,Y
+M0313,Merchant 0313,Micro,Home & Living,Gazipur,H005,2024-02-01,Organic,Shopify,Y
+M0314,Merchant 0314,SME,Accessories,Cumilla,H007,2023-07-01,Digital Campaign,CSV Upload,Y
+M0315,Merchant 0315,SME,Food,Dhaka,H001,2023-05-14,Partner,API,Y
+M0316,Merchant 0316,Micro,Beauty,Chattogram,H004,2023-10-29,Digital Campaign,Shopify,Y
+M0317,Merchant 0317,Enterprise,Books,Dhaka,H003,2023-12-28,Referral,Web Portal,Y
+M0318,Merchant 0318,Enterprise,Accessories,Gazipur,H005,2023-07-26,Digital Campaign,Web Portal,Y
+M0319,Merchant 0319,SME,Fashion,Dhaka,H001,2023-06-20,Direct Sales,Shopify,Y
+M0320,Merchant 0320,Growth,Home & Living,Narayanganj,H006,2023-09-22,Organic,Web Portal,Y
+M0321,Merchant 0321,SME,Food,Chattogram,H004,2022-10-11,Digital Campaign,WooCommerce,Y
+M0322,Merchant 0322,Growth,Beauty,Rangpur,H011,2024-09-09,Digital Campaign,API,Y
+M0323,Merchant 0323,Growth,Grocery,Dhaka,H002,2023-01-07,Partner,Web Portal,Y
+M0324,Merchant 0324,SME,Pharmacy,Gazipur,H005,2024-06-12,Digital Campaign,Shopify,Y
+M0325,Merchant 0325,Micro,Food,Narayanganj,H006,2022-08-19,Referral,CSV Upload,Y
+M0326,Merchant 0326,Micro,Books,Rangpur,H011,2024-03-26,Referral,Shopify,Y
+M0327,Merchant 0327,SME,Beauty,Dhaka,H003,2024-11-21,Digital Campaign,Web Portal,Y
+M0328,Merchant 0328,Micro,Fashion,Gazipur,H005,2024-11-10,Organic,CSV Upload,Y
+M0329,Merchant 0329,Enterprise,Pharmacy,Rangpur,H011,2023-01-17,Direct Sales,Web Portal,Y
+M0330,Merchant 0330,SME,Electronics,Chattogram,H004,2024-05-04,Partner,Web Portal,Y
+M0331,Merchant 0331,Micro,Home & Living,Chattogram,H004,2023-12-23,Partner,API,Y
+M0332,Merchant 0332,SME,Beauty,Dhaka,H002,2024-05-13,Partner,API,Y
+M0333,Merchant 0333,Micro,Home & Living,Chattogram,H004,2023-10-03,Direct Sales,API,Y
+M0334,Merchant 0334,Micro,Fashion,Rangpur,H011,2023-04-24,Digital Campaign,Web Portal,Y
+M0335,Merchant 0335,SME,Grocery,Cumilla,H007,2023-09-24,Direct Sales,Shopify,Y
+M0336,Merchant 0336,Micro,Beauty,Rangpur,H011,2024-08-17,Organic,API,Y
+M0337,Merchant 0337,Micro,Books,Chattogram,H004,2023-03-14,Direct Sales,WooCommerce,Y
+M0338,Merchant 0338,Micro,Fashion,Gazipur,H005,2023-02-17,Digital Campaign,CSV Upload,Y
+M0339,Merchant 0339,SME,Food,Sylhet,H008,2024-07-26,Digital Campaign,CSV Upload,Y
+M0340,Merchant 0340,Micro,Home & Living,Gazipur,H005,2023-11-12,Referral,Shopify,Y
+M0341,Merchant 0341,Enterprise,Accessories,Narayanganj,H006,2024-05-05,Referral,Shopify,Y
+M0342,Merchant 0342,SME,Food,Gazipur,H005,2024-02-16,Referral,API,Y
+M0343,Merchant 0343,SME,Fashion,Rajshahi,H009,2023-02-23,Referral,Shopify,Y
+M0344,Merchant 0344,SME,Home & Living,Rajshahi,H009,2023-10-19,Referral,CSV Upload,Y
+M0345,Merchant 0345,Micro,Electronics,Cumilla,H007,2023-11-19,Digital Campaign,WooCommerce,N
+M0346,Merchant 0346,SME,Electronics,Chattogram,H004,2024-09-11,Partner,Web Portal,Y
+M0347,Merchant 0347,Micro,Accessories,Dhaka,H001,2023-09-18,Digital Campaign,Web Portal,Y
+M0348,Merchant 0348,Micro,Pharmacy,Dhaka,H002,2024-08-14,Direct Sales,CSV Upload,Y
+M0349,Merchant 0349,SME,Pharmacy,Rajshahi,H009,2023-02-12,Organic,CSV Upload,Y
+M0350,Merchant 0350,Enterprise,Pharmacy,Dhaka,H003,2023-06-23,Digital Campaign,CSV Upload,Y
+M0351,Merchant 0351,Micro,Beauty,Dhaka,H002,2023-04-16,Referral,Web Portal,Y
+M0352,Merchant 0352,Enterprise,Home & Living,Mymensingh,H012,2023-09-22,Digital Campaign,WooCommerce,Y
+M0353,Merchant 0353,SME,Beauty,Sylhet,H008,2022-07-19,Organic,CSV Upload,Y
+M0354,Merchant 0354,Micro,Food,Dhaka,H003,2023-12-24,Referral,WooCommerce,Y
+M0355,Merchant 0355,Micro,Electronics,Gazipur,H005,2024-09-22,Digital Campaign,Shopify,Y
+M0356,Merchant 0356,Growth,Grocery,Dhaka,H002,2024-11-15,Direct Sales,WooCommerce,Y
+M0357,Merchant 0357,SME,Home & Living,Cumilla,H007,2024-03-19,Direct Sales,API,N
+M0358,Merchant 0358,SME,Fashion,Khulna,H010,2023-06-18,Organic,WooCommerce,Y
+M0359,Merchant 0359,Micro,Pharmacy,Gazipur,H005,2024-03-21,Organic,WooCommerce,Y
+M0360,Merchant 0360,Growth,Accessories,Dhaka,H003,2022-10-04,Organic,Shopify,Y
+M0361,Merchant 0361,SME,Pharmacy,Rangpur,H011,2023-09-12,Organic,CSV Upload,Y
+M0362,Merchant 0362,Micro,Electronics,Dhaka,H002,2024-11-27,Organic,WooCommerce,Y
+M0363,Merchant 0363,Enterprise,Home & Living,Sylhet,H008,2022-09-01,Partner,Web Portal,Y
+M0364,Merchant 0364,SME,Accessories,Rajshahi,H009,2024-03-18,Digital Campaign,CSV Upload,Y
+M0365,Merchant 0365,SME,Beauty,Mymensingh,H012,2022-11-11,Organic,Shopify,Y
+M0366,Merchant 0366,Growth,Food,Sylhet,H008,2023-12-18,Organic,CSV Upload,N
+M0367,Merchant 0367,Growth,Electronics,Sylhet,H008,2024-06-02,Referral,CSV Upload,Y
+M0368,Merchant 0368,Micro,Home & Living,Chattogram,H004,2023-12-18,Direct Sales,API,Y
+M0369,Merchant 0369,Micro,Beauty,Cumilla,H007,2023-04-14,Partner,Shopify,Y
+M0370,Merchant 0370,SME,Food,Dhaka,H001,2022-07-21,Organic,CSV Upload,Y
+M0371,Merchant 0371,Growth,Food,Dhaka,H001,2024-07-02,Direct Sales,Web Portal,Y
+M0372,Merchant 0372,Growth,Accessories,Dhaka,H002,2024-02-20,Organic,WooCommerce,Y
+M0373,Merchant 0373,SME,Pharmacy,Cumilla,H007,2023-05-26,Digital Campaign,CSV Upload,Y
+M0374,Merchant 0374,Growth,Electronics,Rajshahi,H009,2024-04-11,Organic,Shopify,Y
+M0375,Merchant 0375,SME,Accessories,Dhaka,H001,2024-04-24,Digital Campaign,API,Y
+M0376,Merchant 0376,SME,Accessories,Cumilla,H007,2023-02-11,Organic,Shopify,Y
+M0377,Merchant 0377,Growth,Accessories,Dhaka,H001,2023-05-21,Referral,CSV Upload,Y
+M0378,Merchant 0378,Micro,Pharmacy,Dhaka,H002,2023-01-11,Partner,CSV Upload,Y
+M0379,Merchant 0379,SME,Beauty,Dhaka,H003,2023-06-04,Partner,Web Portal,Y
+M0380,Merchant 0380,SME,Electronics,Rangpur,H011,2022-08-21,Organic,Web Portal,Y
+M0381,Merchant 0381,Micro,Grocery,Rangpur,H011,2023-12-02,Partner,API,Y
+M0382,Merchant 0382,SME,Home & Living,Narayanganj,H006,2024-08-06,Referral,Web Portal,Y
+M0383,Merchant 0383,SME,Pharmacy,Dhaka,H001,2023-04-18,Direct Sales,WooCommerce,Y
+M0384,Merchant 0384,SME,Books,Dhaka,H001,2024-11-06,Partner,Web Portal,Y
+M0385,Merchant 0385,Micro,Grocery,Dhaka,H002,2023-11-23,Direct Sales,WooCommerce,Y
+M0386,Merchant 0386,Micro,Home & Living,Narayanganj,H006,2023-01-18,Referral,WooCommerce,Y
+M0387,Merchant 0387,Micro,Home & Living,Rangpur,H011,2023-03-20,Digital Campaign,CSV Upload,Y
+M0388,Merchant 0388,SME,Fashion,Dhaka,H002,2022-09-03,Referral,WooCommerce,Y
+M0389,Merchant 0389,Micro,Home & Living,Dhaka,H003,2023-01-26,Partner,Web Portal,Y
+M0390,Merchant 0390,SME,Books,Gazipur,H005,2024-11-16,Organic,Web Portal,Y
+M0391,Merchant 0391,Micro,Pharmacy,Dhaka,H001,2023-06-01,Organic,CSV Upload,Y
+M0392,Merchant 0392,Enterprise,Home & Living,Dhaka,H002,2022-09-17,Organic,Shopify,Y
+M0393,Merchant 0393,SME,Grocery,Sylhet,H008,2024-08-19,Organic,API,Y
+M0394,Merchant 0394,SME,Grocery,Dhaka,H003,2022-07-27,Organic,Web Portal,Y
+M0395,Merchant 0395,SME,Books,Dhaka,H003,2022-09-13,Direct Sales,Shopify,Y
+M0396,Merchant 0396,SME,Fashion,Dhaka,H002,2023-10-08,Partner,CSV Upload,N
+M0397,Merchant 0397,SME,Books,Dhaka,H003,2022-11-09,Organic,WooCommerce,Y
+M0398,Merchant 0398,Enterprise,Home & Living,Mymensingh,H012,2023-10-17,Referral,WooCommerce,Y
+M0399,Merchant 0399,SME,Accessories,Mymensingh,H012,2024-10-05,Referral,Web Portal,Y
+M0400,Merchant 0400,Micro,Accessories,Rangpur,H011,2022-10-21,Organic,Shopify,Y
+M0401,Merchant 0401,Growth,Beauty,Chattogram,H004,2023-07-02,Organic,Web Portal,Y
+M0402,Merchant 0402,Micro,Accessories,Cumilla,H007,2023-04-18,Organic,API,Y
+M0403,Merchant 0403,SME,Beauty,Dhaka,H001,2023-09-29,Digital Campaign,WooCommerce,Y
+M0404,Merchant 0404,SME,Food,Gazipur,H005,2023-12-02,Direct Sales,API,Y
+M0405,Merchant 0405,SME,Books,Chattogram,H004,2024-08-02,Partner,Shopify,Y
+M0406,Merchant 0406,SME,Pharmacy,Chattogram,H004,2023-09-07,Organic,WooCommerce,Y
+M0407,Merchant 0407,Enterprise,Grocery,Khulna,H010,2024-03-14,Referral,API,Y
+M0408,Merchant 0408,Micro,Electronics,Mymensingh,H012,2023-04-30,Digital Campaign,Shopify,Y
+M0409,Merchant 0409,SME,Grocery,Gazipur,H005,2024-11-15,Partner,CSV Upload,Y
+M0410,Merchant 0410,Growth,Fashion,Chattogram,H004,2023-10-24,Partner,WooCommerce,Y
+M0411,Merchant 0411,SME,Beauty,Chattogram,H004,2023-09-08,Digital Campaign,CSV Upload,Y
+M0412,Merchant 0412,Micro,Fashion,Sylhet,H008,2024-10-27,Organic,API,Y
+M0413,Merchant 0413,Enterprise,Beauty,Chattogram,H004,2023-03-13,Referral,CSV Upload,Y
+M0414,Merchant 0414,Micro,Accessories,Dhaka,H002,2024-05-09,Direct Sales,WooCommerce,Y
+M0415,Merchant 0415,SME,Fashion,Dhaka,H001,2024-12-02,Digital Campaign,Web Portal,Y
+M0416,Merchant 0416,Enterprise,Books,Dhaka,H003,2022-11-11,Partner,API,Y
+M0417,Merchant 0417,SME,Food,Chattogram,H004,2023-09-14,Digital Campaign,WooCommerce,Y
+M0418,Merchant 0418,SME,Pharmacy,Rajshahi,H009,2023-09-14,Organic,API,Y
+M0419,Merchant 0419,Growth,Food,Cumilla,H007,2023-07-06,Direct Sales,Web Portal,Y
+M0420,Merchant 0420,SME,Fashion,Rajshahi,H009,2023-08-31,Referral,CSV Upload,Y
+M0421,Merchant 0421,SME,Grocery,Chattogram,H004,2024-05-20,Organic,WooCommerce,Y
+M0422,Merchant 0422,Growth,Electronics,Narayanganj,H006,2024-10-30,Referral,API,Y
+M0423,Merchant 0423,SME,Pharmacy,Dhaka,H003,2023-03-31,Referral,CSV Upload,Y
+M0424,Merchant 0424,Micro,Home & Living,Chattogram,H004,2024-08-12,Organic,API,Y
+M0425,Merchant 0425,Growth,Accessories,Dhaka,H002,2024-04-12,Direct Sales,CSV Upload,Y
+M0426,Merchant 0426,Enterprise,Home & Living,Dhaka,H002,2022-08-19,Partner,Web Portal,Y
+M0427,Merchant 0427,Micro,Pharmacy,Chattogram,H004,2023-03-12,Referral,Web Portal,Y
+M0428,Merchant 0428,Micro,Accessories,Gazipur,H005,2023-08-18,Referral,API,Y
+M0429,Merchant 0429,SME,Beauty,Narayanganj,H006,2022-11-29,Partner,Shopify,Y
+M0430,Merchant 0430,Micro,Electronics,Dhaka,H001,2023-08-27,Referral,Web Portal,Y
+M0431,Merchant 0431,Micro,Books,Dhaka,H001,2022-09-04,Referral,CSV Upload,Y
+M0432,Merchant 0432,Growth,Beauty,Cumilla,H007,2022-08-19,Digital Campaign,API,Y
+M0433,Merchant 0433,Micro,Grocery,Rangpur,H011,2024-10-14,Referral,API,Y
+M0434,Merchant 0434,SME,Fashion,Dhaka,H001,2023-08-13,Direct Sales,CSV Upload,Y
+M0435,Merchant 0435,Micro,Books,Cumilla,H007,2023-12-17,Direct Sales,Web Portal,Y
+M0436,Merchant 0436,SME,Pharmacy,Chattogram,H004,2024-05-24,Partner,WooCommerce,Y
+M0437,Merchant 0437,SME,Electronics,Sylhet,H008,2023-12-10,Referral,CSV Upload,Y
+M0438,Merchant 0438,SME,Pharmacy,Rangpur,H011,2022-11-16,Organic,Web Portal,Y
+M0439,Merchant 0439,SME,Pharmacy,Dhaka,H003,2023-12-29,Direct Sales,Shopify,Y
+M0440,Merchant 0440,Growth,Beauty,Mymensingh,H012,2022-11-23,Digital Campaign,WooCommerce,Y
+M0441,Merchant 0441,Micro,Home & Living,Dhaka,H003,2023-05-16,Direct Sales,Shopify,Y
+M0442,Merchant 0442,Growth,Grocery,Chattogram,H004,2022-10-27,Organic,CSV Upload,Y
+M0443,Merchant 0443,Growth,Books,Rangpur,H011,2023-10-19,Partner,API,Y
+M0444,Merchant 0444,Growth,Food,Dhaka,H003,2024-09-15,Referral,API,Y
+M0445,Merchant 0445,SME,Electronics,Sylhet,H008,2024-01-19,Digital Campaign,CSV Upload,Y
+M0446,Merchant 0446,SME,Fashion,Mymensingh,H012,2022-09-30,Referral,Shopify,Y
+M0447,Merchant 0447,SME,Books,Sylhet,H008,2023-12-22,Partner,API,Y
+M0448,Merchant 0448,Micro,Food,Dhaka,H001,2023-01-29,Digital Campaign,API,Y
+M0449,Merchant 0449,Growth,Grocery,Cumilla,H007,2024-10-15,Digital Campaign,WooCommerce,Y
+M0450,Merchant 0450,Growth,Home & Living,Narayanganj,H006,2024-03-04,Referral,Web Portal,Y
+M0451,Merchant 0451,Micro,Fashion,Chattogram,H004,2023-01-03,Referral,API,Y
+M0452,Merchant 0452,Micro,Electronics,Dhaka,H002,2024-01-12,Organic,Web Portal,Y
+M0453,Merchant 0453,Growth,Food,Rajshahi,H009,2022-12-30,Organic,CSV Upload,Y
+M0454,Merchant 0454,SME,Beauty,Dhaka,H001,2024-07-09,Digital Campaign,Web Portal,Y
+M0455,Merchant 0455,Micro,Fashion,Dhaka,H001,2023-02-06,Referral,WooCommerce,Y
+M0456,Merchant 0456,SME,Electronics,Chattogram,H004,2023-09-16,Direct Sales,WooCommerce,Y
+M0457,Merchant 0457,Micro,Beauty,Dhaka,H001,2024-02-19,Organic,WooCommerce,Y
+M0458,Merchant 0458,SME,Fashion,Sylhet,H008,2023-03-29,Referral,Web Portal,Y
+M0459,Merchant 0459,Enterprise,Electronics,Dhaka,H002,2023-11-14,Organic,CSV Upload,Y
+M0460,Merchant 0460,Micro,Books,Gazipur,H005,2023-02-09,Referral,API,Y
+M0461,Merchant 0461,Micro,Grocery,Rangpur,H011,2022-10-03,Digital Campaign,Shopify,Y
+M0462,Merchant 0462,Enterprise,Books,Dhaka,H001,2023-02-17,Direct Sales,Web Portal,Y
+M0463,Merchant 0463,Growth,Electronics,Dhaka,H003,2024-04-14,Organic,CSV Upload,Y
+M0464,Merchant 0464,SME,Pharmacy,Dhaka,H002,2023-04-23,Direct Sales,Web Portal,Y
+M0465,Merchant 0465,Micro,Books,Dhaka,H001,2024-12-01,Partner,Web Portal,Y
+M0466,Merchant 0466,Micro,Electronics,Dhaka,H003,2024-11-09,Organic,Web Portal,Y
+M0467,Merchant 0467,SME,Pharmacy,Rangpur,H011,2022-08-12,Partner,WooCommerce,Y
+M0468,Merchant 0468,SME,Books,Khulna,H010,2023-11-25,Direct Sales,Web Portal,Y
+M0469,Merchant 0469,SME,Accessories,Narayanganj,H006,2022-07-29,Digital Campaign,Web Portal,Y
+M0470,Merchant 0470,Micro,Fashion,Dhaka,H003,2023-10-29,Referral,Web Portal,Y
+M0471,Merchant 0471,SME,Pharmacy,Rajshahi,H009,2023-08-18,Referral,Web Portal,Y
+M0472,Merchant 0472,Micro,Home & Living,Chattogram,H004,2022-11-02,Digital Campaign,Web Portal,Y
+M0473,Merchant 0473,Micro,Electronics,Dhaka,H001,2023-10-24,Organic,Web Portal,Y
+M0474,Merchant 0474,Growth,Beauty,Narayanganj,H006,2023-06-24,Direct Sales,CSV Upload,Y
+M0475,Merchant 0475,SME,Fashion,Cumilla,H007,2023-05-18,Direct Sales,API,Y
+M0476,Merchant 0476,SME,Beauty,Cumilla,H007,2023-12-21,Organic,Web Portal,Y
+M0477,Merchant 0477,Growth,Grocery,Rajshahi,H009,2024-08-29,Organic,API,Y
+M0478,Merchant 0478,Growth,Accessories,Chattogram,H004,2023-09-15,Referral,Web Portal,Y
+M0479,Merchant 0479,Growth,Beauty,Dhaka,H002,2022-09-16,Organic,Shopify,Y
+M0480,Merchant 0480,Growth,Books,Rajshahi,H009,2024-07-05,Referral,CSV Upload,N
+M0481,Merchant 0481,SME,Accessories,Chattogram,H004,2023-12-20,Direct Sales,Web Portal,Y
+M0482,Merchant 0482,SME,Books,Dhaka,H002,2023-03-05,Organic,Shopify,Y
+M0483,Merchant 0483,Growth,Beauty,Khulna,H010,2022-10-10,Referral,WooCommerce,Y
+M0484,Merchant 0484,SME,Accessories,Gazipur,H005,2024-05-10,Direct Sales,Web Portal,Y
+M0485,Merchant 0485,SME,Pharmacy,Dhaka,H003,2023-01-04,Direct Sales,WooCommerce,Y
+M0486,Merchant 0486,Micro,Accessories,Sylhet,H008,2024-03-18,Referral,Web Portal,Y
+M0487,Merchant 0487,Micro,Food,Dhaka,H001,2022-11-10,Organic,Shopify,Y
+M0488,Merchant 0488,Micro,Electronics,Gazipur,H005,2024-05-17,Digital Campaign,API,Y
+M0489,Merchant 0489,Growth,Accessories,Rangpur,H011,2023-01-08,Direct Sales,Web Portal,Y
+M0490,Merchant 0490,SME,Home & Living,Dhaka,H002,2022-07-25,Organic,API,Y
+M0491,Merchant 0491,Micro,Home & Living,Dhaka,H002,2024-02-15,Direct Sales,Shopify,Y
+M0492,Merchant 0492,Micro,Accessories,Narayanganj,H006,2023-10-04,Referral,Shopify,Y
+M0493,Merchant 0493,Enterprise,Accessories,Dhaka,H001,2023-11-16,Partner,API,Y
+M0494,Merchant 0494,SME,Home & Living,Dhaka,H001,2024-01-17,Partner,API,N
+M0495,Merchant 0495,Growth,Electronics,Chattogram,H004,2023-09-04,Organic,Shopify,Y
+M0496,Merchant 0496,Growth,Fashion,Dhaka,H003,2023-07-01,Referral,CSV Upload,Y
+M0497,Merchant 0497,Micro,Pharmacy,Narayanganj,H006,2023-12-08,Direct Sales,WooCommerce,Y
+M0498,Merchant 0498,Micro,Books,Sylhet,H008,2023-11-13,Referral,Web Portal,Y
+M0499,Merchant 0499,Micro,Electronics,Dhaka,H003,2024-10-12,Referral,Web Portal,Y
+M0500,Merchant 0500,SME,Home & Living,Cumilla,H007,2024-05-15,Partner,Shopify,Y
+M0501,Merchant 0501,Micro,Home & Living,Narayanganj,H006,2022-11-15,Partner,WooCommerce,Y
+M0502,Merchant 0502,SME,Home & Living,Rajshahi,H009,2024-04-24,Referral,Web Portal,Y
+M0503,Merchant 0503,Growth,Home & Living,Dhaka,H001,2024-02-24,Direct Sales,Shopify,Y
+M0504,Merchant 0504,SME,Beauty,Cumilla,H007,2024-06-19,Organic,WooCommerce,Y
+M0505,Merchant 0505,SME,Home & Living,Chattogram,H004,2024-09-13,Partner,Web Portal,Y
+M0506,Merchant 0506,Growth,Electronics,Dhaka,H003,2024-04-01,Referral,Shopify,N
+M0507,Merchant 0507,Enterprise,Home & Living,Chattogram,H004,2023-01-27,Partner,API,Y
+M0508,Merchant 0508,SME,Pharmacy,Rajshahi,H009,2024-10-25,Direct Sales,Web Portal,Y
+M0509,Merchant 0509,Growth,Electronics,Dhaka,H001,2024-02-23,Partner,CSV Upload,Y
+M0510,Merchant 0510,SME,Beauty,Dhaka,H002,2022-12-31,Organic,WooCommerce,Y
+M0511,Merchant 0511,SME,Grocery,Narayanganj,H006,2024-08-22,Referral,CSV Upload,Y
+M0512,Merchant 0512,SME,Books,Gazipur,H005,2024-03-18,Digital Campaign,CSV Upload,Y
+M0513,Merchant 0513,SME,Electronics,Rangpur,H011,2023-10-16,Partner,API,Y
+M0514,Merchant 0514,Growth,Pharmacy,Cumilla,H007,2022-11-30,Partner,Web Portal,Y
+M0515,Merchant 0515,SME,Books,Gazipur,H005,2024-04-19,Digital Campaign,WooCommerce,Y
+M0516,Merchant 0516,SME,Home & Living,Sylhet,H008,2022-08-17,Referral,CSV Upload,Y
+M0517,Merchant 0517,Micro,Fashion,Narayanganj,H006,2024-06-22,Direct Sales,CSV Upload,Y
+M0518,Merchant 0518,Growth,Grocery,Dhaka,H002,2023-01-31,Digital Campaign,WooCommerce,Y
+M0519,Merchant 0519,Micro,Home & Living,Rajshahi,H009,2024-07-17,Organic,Web Portal,Y
+M0520,Merchant 0520,SME,Electronics,Dhaka,H003,2024-04-11,Referral,CSV Upload,Y
+M0521,Merchant 0521,Micro,Fashion,Dhaka,H001,2024-11-12,Partner,WooCommerce,Y
+M0522,Merchant 0522,Micro,Pharmacy,Dhaka,H003,2023-01-30,Direct Sales,Shopify,Y
+M0523,Merchant 0523,SME,Beauty,Sylhet,H008,2024-02-08,Organic,API,Y
+M0524,Merchant 0524,SME,Home & Living,Narayanganj,H006,2023-07-31,Organic,Shopify,Y
+M0525,Merchant 0525,Micro,Electronics,Dhaka,H003,2023-07-05,Partner,WooCommerce,Y
+M0526,Merchant 0526,Growth,Books,Chattogram,H004,2024-10-17,Partner,WooCommerce,Y
+M0527,Merchant 0527,Micro,Fashion,Cumilla,H007,2023-12-05,Direct Sales,API,Y
+M0528,Merchant 0528,SME,Accessories,Gazipur,H005,2024-11-27,Partner,Shopify,Y
+M0529,Merchant 0529,Enterprise,Electronics,Dhaka,H003,2023-02-01,Direct Sales,CSV Upload,Y
+M0530,Merchant 0530,Growth,Electronics,Cumilla,H007,2022-10-31,Organic,Shopify,Y
+M0531,Merchant 0531,Micro,Fashion,Sylhet,H008,2023-05-20,Partner,Shopify,Y
+M0532,Merchant 0532,Micro,Beauty,Rangpur,H011,2023-10-28,Direct Sales,API,Y
+M0533,Merchant 0533,SME,Fashion,Dhaka,H003,2023-01-31,Partner,CSV Upload,Y
+M0534,Merchant 0534,SME,Books,Rangpur,H011,2023-08-12,Partner,Web Portal,Y
+M0535,Merchant 0535,Micro,Pharmacy,Dhaka,H002,2023-11-20,Digital Campaign,Web Portal,Y
+M0536,Merchant 0536,Growth,Beauty,Dhaka,H003,2023-02-20,Organic,API,Y
+M0537,Merchant 0537,Micro,Accessories,Cumilla,H007,2023-01-11,Organic,WooCommerce,Y
+M0538,Merchant 0538,Growth,Grocery,Gazipur,H005,2024-05-17,Partner,Web Portal,Y
+M0539,Merchant 0539,SME,Accessories,Cumilla,H007,2024-08-17,Referral,CSV Upload,Y
+M0540,Merchant 0540,SME,Electronics,Gazipur,H005,2023-11-30,Referral,Web Portal,Y
+M0541,Merchant 0541,Micro,Food,Dhaka,H001,2024-02-12,Partner,Web Portal,Y
+M0542,Merchant 0542,SME,Electronics,Chattogram,H004,2023-05-28,Organic,Shopify,Y
+M0543,Merchant 0543,SME,Pharmacy,Dhaka,H003,2023-09-10,Direct Sales,API,Y
+M0544,Merchant 0544,Micro,Food,Khulna,H010,2023-09-29,Digital Campaign,API,Y
+M0545,Merchant 0545,SME,Pharmacy,Dhaka,H001,2024-05-23,Partner,Web Portal,Y
+M0546,Merchant 0546,Micro,Grocery,Rangpur,H011,2024-10-01,Referral,Shopify,Y
+M0547,Merchant 0547,SME,Books,Cumilla,H007,2022-09-18,Partner,CSV Upload,Y
+M0548,Merchant 0548,SME,Accessories,Gazipur,H005,2022-09-18,Direct Sales,API,Y
+M0549,Merchant 0549,SME,Books,Dhaka,H003,2024-04-29,Referral,Web Portal,Y
+M0550,Merchant 0550,Growth,Fashion,Cumilla,H007,2024-05-20,Digital Campaign,WooCommerce,Y
+M0551,Merchant 0551,Micro,Grocery,Dhaka,H001,2023-05-15,Direct Sales,WooCommerce,Y
+M0552,Merchant 0552,SME,Pharmacy,Chattogram,H004,2023-12-11,Organic,API,N
+M0553,Merchant 0553,SME,Books,Gazipur,H005,2022-08-12,Referral,WooCommerce,Y
+M0554,Merchant 0554,SME,Food,Dhaka,H002,2023-09-30,Partner,Web Portal,Y
+M0555,Merchant 0555,SME,Fashion,Rajshahi,H009,2022-07-18,Referral,Shopify,Y
+M0556,Merchant 0556,SME,Food,Gazipur,H005,2023-01-07,Partner,Web Portal,Y
+M0557,Merchant 0557,Growth,Fashion,Dhaka,H002,2022-10-18,Direct Sales,Shopify,Y
+M0558,Merchant 0558,Micro,Pharmacy,Dhaka,H003,2024-10-05,Referral,CSV Upload,Y
+M0559,Merchant 0559,SME,Food,Cumilla,H007,2022-07-27,Organic,Web Portal,Y
+M0560,Merchant 0560,Enterprise,Food,Khulna,H010,2023-01-30,Partner,CSV Upload,Y
+M0561,Merchant 0561,SME,Fashion,Gazipur,H005,2023-09-26,Direct Sales,CSV Upload,Y
+M0562,Merchant 0562,Micro,Pharmacy,Rajshahi,H009,2023-08-31,Digital Campaign,Web Portal,Y
+M0563,Merchant 0563,Micro,Accessories,Rangpur,H011,2024-04-13,Partner,Web Portal,Y
+M0564,Merchant 0564,SME,Beauty,Narayanganj,H006,2024-02-22,Organic,WooCommerce,Y
+M0565,Merchant 0565,Enterprise,Home & Living,Narayanganj,H006,2024-08-08,Organic,WooCommerce,Y
+M0566,Merchant 0566,Growth,Fashion,Mymensingh,H012,2024-01-22,Organic,CSV Upload,Y
+M0567,Merchant 0567,SME,Books,Sylhet,H008,2023-11-21,Direct Sales,Web Portal,Y
+M0568,Merchant 0568,SME,Food,Gazipur,H005,2024-09-19,Referral,API,Y
+M0569,Merchant 0569,Micro,Accessories,Gazipur,H005,2024-02-29,Digital Campaign,WooCommerce,Y
+M0570,Merchant 0570,SME,Grocery,Dhaka,H003,2024-09-23,Digital Campaign,CSV Upload,Y
+M0571,Merchant 0571,Micro,Food,Dhaka,H002,2022-09-10,Digital Campaign,Shopify,Y
+M0572,Merchant 0572,Growth,Electronics,Chattogram,H004,2024-11-01,Referral,API,Y
+M0573,Merchant 0573,SME,Pharmacy,Chattogram,H004,2023-08-28,Digital Campaign,CSV Upload,Y
+M0574,Merchant 0574,SME,Beauty,Khulna,H010,2023-09-04,Referral,WooCommerce,Y
+M0575,Merchant 0575,SME,Books,Gazipur,H005,2022-12-23,Referral,API,Y
+M0576,Merchant 0576,Enterprise,Pharmacy,Chattogram,H004,2024-09-22,Partner,CSV Upload,Y
+M0577,Merchant 0577,Micro,Books,Narayanganj,H006,2023-04-21,Organic,Shopify,Y
+M0578,Merchant 0578,Micro,Beauty,Khulna,H010,2022-08-28,Organic,API,Y
+M0579,Merchant 0579,Micro,Grocery,Chattogram,H004,2022-11-13,Partner,Web Portal,Y
+M0580,Merchant 0580,Micro,Accessories,Gazipur,H005,2023-11-30,Referral,API,N
+M0581,Merchant 0581,SME,Fashion,Gazipur,H005,2024-04-14,Referral,Web Portal,Y
+M0582,Merchant 0582,Growth,Pharmacy,Sylhet,H008,2022-12-23,Referral,WooCommerce,Y
+M0583,Merchant 0583,Growth,Food,Chattogram,H004,2024-08-07,Referral,CSV Upload,Y
+M0584,Merchant 0584,SME,Books,Dhaka,H003,2023-04-15,Referral,CSV Upload,Y
+M0585,Merchant 0585,SME,Electronics,Narayanganj,H006,2024-05-24,Referral,Web Portal,Y
+M0586,Merchant 0586,SME,Grocery,Cumilla,H007,2023-02-27,Direct Sales,Web Portal,Y
+M0587,Merchant 0587,SME,Pharmacy,Cumilla,H007,2024-09-22,Referral,WooCommerce,Y
+M0588,Merchant 0588,Growth,Grocery,Chattogram,H004,2023-10-09,Partner,Shopify,Y
+M0589,Merchant 0589,Growth,Home & Living,Rangpur,H011,2023-12-08,Digital Campaign,API,Y
+M0590,Merchant 0590,Micro,Beauty,Narayanganj,H006,2024-11-06,Referral,Shopify,Y
+M0591,Merchant 0591,SME,Food,Rangpur,H011,2023-08-25,Partner,Shopify,Y
+M0592,Merchant 0592,Growth,Food,Dhaka,H002,2023-03-06,Digital Campaign,API,Y
+M0593,Merchant 0593,SME,Fashion,Narayanganj,H006,2022-08-16,Organic,Web Portal,Y
+M0594,Merchant 0594,Micro,Beauty,Chattogram,H004,2022-11-24,Digital Campaign,WooCommerce,Y
+M0595,Merchant 0595,SME,Grocery,Narayanganj,H006,2023-02-23,Digital Campaign,WooCommerce,Y
+M0596,Merchant 0596,Micro,Grocery,Rajshahi,H009,2022-10-27,Direct Sales,Shopify,Y
+M0597,Merchant 0597,Enterprise,Beauty,Cumilla,H007,2023-03-20,Referral,Shopify,Y
+M0598,Merchant 0598,Enterprise,Fashion,Gazipur,H005,2024-10-09,Organic,Web Portal,Y
+M0599,Merchant 0599,Growth,Books,Dhaka,H002,2023-09-25,Digital Campaign,CSV Upload,Y
+M0600,Merchant 0600,SME,Grocery,Rangpur,H011,2024-08-01,Organic,CSV Upload,Y

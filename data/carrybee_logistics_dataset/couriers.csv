@@ -1,0 +1,221 @@
+courier_id,courier_name,hub_id,vehicle_type,join_date,employment_status,daily_capacity
+C0001,Courier 0001,H009,Motorbike,2024-08-01,Active,49
+C0002,Courier 0002,H007,Van,2021-10-26,Active,75
+C0003,Courier 0003,H005,Van,2023-04-07,Active,61
+C0004,Courier 0004,H003,Bicycle,2024-05-07,Active,52
+C0005,Courier 0005,H005,Motorbike,2022-06-01,Active,41
+C0006,Courier 0006,H004,Covered Van,2024-07-05,Active,61
+C0007,Courier 0007,H006,Van,2024-03-08,Active,71
+C0008,Courier 0008,H001,Motorbike,2021-10-22,Active,36
+C0009,Courier 0009,H011,Motorbike,2022-04-12,Active,32
+C0010,Courier 0010,H010,Covered Van,2024-11-07,On Leave,79
+C0011,Courier 0011,H012,Motorbike,2022-09-19,Active,43
+C0012,Courier 0012,H008,Bicycle,2022-04-14,Active,25
+C0013,Courier 0013,H009,Van,2024-12-02,Active,68
+C0014,Courier 0014,H012,Motorbike,2023-09-11,Active,37
+C0015,Courier 0015,H009,Covered Van,2023-06-30,Active,41
+C0016,Courier 0016,H011,Covered Van,2023-11-20,Active,59
+C0017,Courier 0017,H003,Van,2022-02-24,Active,44
+C0018,Courier 0018,H002,Motorbike,2021-10-18,Active,23
+C0019,Courier 0019,H011,Bicycle,2024-07-28,Active,24
+C0020,Courier 0020,H012,Covered Van,2023-02-20,Active,57
+C0021,Courier 0021,H004,Motorbike,2023-05-21,Active,46
+C0022,Courier 0022,H001,Van,2022-07-14,On Leave,70
+C0023,Courier 0023,H001,Motorbike,2021-11-20,Active,49
+C0024,Courier 0024,H011,Covered Van,2023-12-11,Active,70
+C0025,Courier 0025,H006,Motorbike,2023-05-17,Active,44
+C0026,Courier 0026,H009,Motorbike,2022-04-03,Active,50
+C0027,Courier 0027,H011,Motorbike,2021-10-11,Active,30
+C0028,Courier 0028,H001,Motorbike,2022-07-27,Active,37
+C0029,Courier 0029,H002,Motorbike,2023-04-07,Active,43
+C0030,Courier 0030,H006,Van,2022-11-04,Active,58
+C0031,Courier 0031,H007,Motorbike,2024-06-23,Active,52
+C0032,Courier 0032,H007,Motorbike,2024-04-13,Inactive,34
+C0033,Courier 0033,H003,Motorbike,2024-11-13,Active,44
+C0034,Courier 0034,H004,Motorbike,2023-03-20,Active,37
+C0035,Courier 0035,H008,Bicycle,2023-10-30,Active,51
+C0036,Courier 0036,H003,Motorbike,2021-11-22,Active,36
+C0037,Courier 0037,H001,Van,2023-07-01,Active,69
+C0038,Courier 0038,H007,Motorbike,2022-11-15,Active,24
+C0039,Courier 0039,H008,Van,2022-06-05,Inactive,57
+C0040,Courier 0040,H005,Motorbike,2022-12-23,Active,40
+C0041,Courier 0041,H008,Motorbike,2024-04-29,Active,53
+C0042,Courier 0042,H010,Motorbike,2024-03-21,Active,26
+C0043,Courier 0043,H001,Motorbike,2024-11-02,Active,23
+C0044,Courier 0044,H007,Motorbike,2022-07-27,Active,41
+C0045,Courier 0045,H012,Covered Van,2023-02-13,Active,47
+C0046,Courier 0046,H004,Van,2024-02-22,Active,68
+C0047,Courier 0047,H007,Motorbike,2021-11-22,Active,50
+C0048,Courier 0048,H012,Bicycle,2023-05-14,Active,37
+C0049,Courier 0049,H003,Van,2023-06-08,Active,38
+C0050,Courier 0050,H009,Motorbike,2024-08-18,Active,42
+C0051,Courier 0051,H006,Motorbike,2023-03-24,Active,23
+C0052,Courier 0052,H005,Covered Van,2024-02-05,On Leave,43
+C0053,Courier 0053,H006,Motorbike,2023-06-08,Active,55
+C0054,Courier 0054,H006,Bicycle,2023-04-16,Active,26
+C0055,Courier 0055,H004,Motorbike,2023-04-17,Active,48
+C0056,Courier 0056,H002,Covered Van,2023-01-14,Active,40
+C0057,Courier 0057,H012,Bicycle,2024-05-24,Active,48
+C0058,Courier 0058,H007,Van,2024-05-24,On Leave,54
+C0059,Courier 0059,H009,Motorbike,2024-06-18,Inactive,42
+C0060,Courier 0060,H012,Van,2023-10-29,Active,65
+C0061,Courier 0061,H007,Van,2024-10-28,Active,41
+C0062,Courier 0062,H010,Covered Van,2021-12-28,Active,42
+C0063,Courier 0063,H002,Motorbike,2024-09-15,Active,45
+C0064,Courier 0064,H005,Van,2024-04-10,Inactive,61
+C0065,Courier 0065,H009,Motorbike,2024-02-01,Inactive,52
+C0066,Courier 0066,H012,Van,2024-10-24,Active,78
+C0067,Courier 0067,H012,Covered Van,2022-10-22,Inactive,51
+C0068,Courier 0068,H002,Bicycle,2023-01-16,Active,22
+C0069,Courier 0069,H010,Motorbike,2022-12-01,Inactive,43
+C0070,Courier 0070,H001,Motorbike,2023-05-20,Active,24
+C0071,Courier 0071,H006,Motorbike,2023-06-14,Active,26
+C0072,Courier 0072,H011,Van,2023-03-07,Active,39
+C0073,Courier 0073,H012,Covered Van,2022-07-07,Active,37
+C0074,Courier 0074,H011,Motorbike,2023-08-26,Active,40
+C0075,Courier 0075,H009,Van,2023-11-20,Active,78
+C0076,Courier 0076,H007,Motorbike,2022-07-16,Active,51
+C0077,Courier 0077,H010,Bicycle,2021-10-11,Active,50
+C0078,Courier 0078,H009,Van,2022-05-11,Active,63
+C0079,Courier 0079,H007,Van,2022-10-03,Active,42
+C0080,Courier 0080,H012,Bicycle,2024-11-12,Active,53
+C0081,Courier 0081,H010,Motorbike,2024-07-22,Active,32
+C0082,Courier 0082,H006,Motorbike,2023-09-14,Active,48
+C0083,Courier 0083,H003,Van,2024-06-03,Active,78
+C0084,Courier 0084,H003,Covered Van,2022-02-15,Active,70
+C0085,Courier 0085,H011,Bicycle,2021-11-14,Active,44
+C0086,Courier 0086,H006,Motorbike,2022-02-25,Active,31
+C0087,Courier 0087,H003,Motorbike,2023-12-29,Active,55
+C0088,Courier 0088,H001,Motorbike,2022-08-02,Active,54
+C0089,Courier 0089,H011,Van,2021-09-23,Active,45
+C0090,Courier 0090,H003,Motorbike,2023-11-18,Active,32
+C0091,Courier 0091,H004,Bicycle,2023-12-31,Active,38
+C0092,Courier 0092,H011,Motorbike,2023-09-11,Active,47
+C0093,Courier 0093,H003,Bicycle,2022-07-29,Active,39
+C0094,Courier 0094,H005,Motorbike,2022-04-06,Active,49
+C0095,Courier 0095,H004,Motorbike,2024-11-10,Active,24
+C0096,Courier 0096,H003,Motorbike,2023-04-21,Active,44
+C0097,Courier 0097,H012,Motorbike,2024-02-20,Active,35
+C0098,Courier 0098,H011,Motorbike,2023-05-21,Active,45
+C0099,Courier 0099,H011,Motorbike,2023-01-18,Active,55
+C0100,Courier 0100,H003,Motorbike,2023-04-29,Active,51
+C0101,Courier 0101,H007,Covered Van,2021-10-09,Active,62
+C0102,Courier 0102,H011,Motorbike,2024-09-20,Active,40
+C0103,Courier 0103,H001,Motorbike,2021-10-16,Active,54
+C0104,Courier 0104,H005,Covered Van,2023-02-14,Active,75
+C0105,Courier 0105,H008,Motorbike,2022-11-17,Active,53
+C0106,Courier 0106,H008,Bicycle,2024-05-02,Active,42
+C0107,Courier 0107,H001,Van,2023-07-13,Active,72
+C0108,Courier 0108,H008,Bicycle,2024-04-21,Active,22
+C0109,Courier 0109,H012,Motorbike,2022-05-22,Active,40
+C0110,Courier 0110,H006,Motorbike,2024-05-04,Active,29
+C0111,Courier 0111,H011,Covered Van,2023-12-03,Active,80
+C0112,Courier 0112,H002,Motorbike,2024-05-07,Inactive,33
+C0113,Courier 0113,H003,Van,2022-04-02,Active,62
+C0114,Courier 0114,H009,Bicycle,2023-10-06,Inactive,27
+C0115,Courier 0115,H008,Bicycle,2023-12-23,Active,38
+C0116,Courier 0116,H010,Motorbike,2022-01-14,Active,28
+C0117,Courier 0117,H005,Van,2021-10-20,Active,75
+C0118,Courier 0118,H002,Covered Van,2022-08-11,Active,48
+C0119,Courier 0119,H008,Van,2021-09-25,Inactive,71
+C0120,Courier 0120,H011,Covered Van,2022-03-20,Active,52
+C0121,Courier 0121,H006,Motorbike,2023-06-26,Active,35
+C0122,Courier 0122,H007,Covered Van,2022-12-03,Active,60
+C0123,Courier 0123,H008,Motorbike,2022-08-27,Active,26
+C0124,Courier 0124,H012,Van,2023-08-14,Active,55
+C0125,Courier 0125,H001,Van,2023-02-24,Active,51
+C0126,Courier 0126,H006,Motorbike,2024-05-12,Active,46
+C0127,Courier 0127,H001,Van,2024-05-14,Active,63
+C0128,Courier 0128,H007,Motorbike,2023-12-18,Active,22
+C0129,Courier 0129,H009,Bicycle,2022-02-13,Active,53
+C0130,Courier 0130,H012,Bicycle,2023-07-29,Active,34
+C0131,Courier 0131,H011,Van,2023-02-09,Active,65
+C0132,Courier 0132,H010,Motorbike,2024-08-12,Active,24
+C0133,Courier 0133,H006,Bicycle,2024-04-14,Active,44
+C0134,Courier 0134,H011,Van,2023-06-03,Active,49
+C0135,Courier 0135,H012,Van,2023-02-05,Active,35
+C0136,Courier 0136,H003,Motorbike,2024-02-05,Active,47
+C0137,Courier 0137,H010,Motorbike,2022-07-18,Active,47
+C0138,Courier 0138,H003,Motorbike,2024-04-16,Active,55
+C0139,Courier 0139,H004,Bicycle,2021-09-25,Active,51
+C0140,Courier 0140,H002,Motorbike,2022-05-31,Active,33
+C0141,Courier 0141,H012,Covered Van,2022-07-06,Active,60
+C0142,Courier 0142,H002,Motorbike,2024-10-20,Active,54
+C0143,Courier 0143,H002,Bicycle,2021-10-29,Active,37
+C0144,Courier 0144,H008,Motorbike,2024-09-23,Active,38
+C0145,Courier 0145,H007,Motorbike,2022-01-20,Active,22
+C0146,Courier 0146,H010,Motorbike,2024-10-21,Active,45
+C0147,Courier 0147,H008,Van,2021-11-25,Active,69
+C0148,Courier 0148,H011,Motorbike,2023-01-22,Active,31
+C0149,Courier 0149,H007,Motorbike,2022-07-14,Active,47
+C0150,Courier 0150,H007,Van,2022-05-07,Active,49
+C0151,Courier 0151,H002,Van,2024-10-13,Inactive,53
+C0152,Courier 0152,H006,Motorbike,2023-09-22,Active,49
+C0153,Courier 0153,H011,Motorbike,2023-06-06,Active,50
+C0154,Courier 0154,H008,Motorbike,2024-11-06,Active,54
+C0155,Courier 0155,H002,Motorbike,2024-03-25,Active,51
+C0156,Courier 0156,H009,Motorbike,2022-10-19,Active,30
+C0157,Courier 0157,H010,Covered Van,2023-03-16,Active,45
+C0158,Courier 0158,H003,Bicycle,2024-07-01,Active,39
+C0159,Courier 0159,H006,Van,2022-05-31,Active,66
+C0160,Courier 0160,H010,Covered Van,2024-02-15,Active,61
+C0161,Courier 0161,H010,Motorbike,2022-03-05,Active,27
+C0162,Courier 0162,H011,Covered Van,2023-09-15,Active,57
+C0163,Courier 0163,H006,Motorbike,2021-12-02,Active,32
+C0164,Courier 0164,H007,Motorbike,2023-11-12,Active,48
+C0165,Courier 0165,H010,Motorbike,2023-10-21,Active,55
+C0166,Courier 0166,H010,Motorbike,2023-06-16,Active,50
+C0167,Courier 0167,H006,Bicycle,2023-08-01,Active,30
+C0168,Courier 0168,H007,Van,2021-10-16,Active,40
+C0169,Courier 0169,H007,Motorbike,2023-12-28,Active,28
+C0170,Courier 0170,H005,Motorbike,2024-04-13,Active,47
+C0171,Courier 0171,H009,Motorbike,2023-08-07,Active,40
+C0172,Courier 0172,H008,Motorbike,2022-09-20,On Leave,45
+C0173,Courier 0173,H012,Covered Van,2022-06-21,Active,80
+C0174,Courier 0174,H008,Van,2024-04-24,Active,67
+C0175,Courier 0175,H004,Van,2021-10-25,Active,37
+C0176,Courier 0176,H009,Motorbike,2023-05-06,Active,33
+C0177,Courier 0177,H007,Van,2023-12-20,Active,80
+C0178,Courier 0178,H008,Motorbike,2023-12-06,Active,26
+C0179,Courier 0179,H001,Motorbike,2024-06-02,Active,48
+C0180,Courier 0180,H006,Bicycle,2021-09-19,Active,48
+C0181,Courier 0181,H007,Van,2023-07-09,Active,68
+C0182,Courier 0182,H006,Motorbike,2023-06-22,Active,33
+C0183,Courier 0183,H011,Motorbike,2023-11-06,Active,49
+C0184,Courier 0184,H006,Motorbike,2024-11-06,Active,37
+C0185,Courier 0185,H012,Motorbike,2022-06-14,Active,30
+C0186,Courier 0186,H005,Motorbike,2023-10-11,Active,44
+C0187,Courier 0187,H008,Van,2022-01-09,Active,36
+C0188,Courier 0188,H012,Motorbike,2024-04-25,Active,29
+C0189,Courier 0189,H011,Motorbike,2023-05-02,Inactive,28
+C0190,Courier 0190,H007,Motorbike,2024-07-28,Active,23
+C0191,Courier 0191,H001,Motorbike,2021-10-11,Active,30
+C0192,Courier 0192,H003,Motorbike,2022-11-11,Active,42
+C0193,Courier 0193,H009,Motorbike,2022-08-29,Active,52
+C0194,Courier 0194,H007,Motorbike,2024-03-07,Active,29
+C0195,Courier 0195,H008,Motorbike,2021-11-26,Active,25
+C0196,Courier 0196,H011,Motorbike,2024-07-26,Active,50
+C0197,Courier 0197,H002,Bicycle,2022-01-02,Active,39
+C0198,Courier 0198,H002,Covered Van,2024-04-27,Active,71
+C0199,Courier 0199,H012,Motorbike,2022-02-23,Active,43
+C0200,Courier 0200,H009,Van,2021-10-22,Active,40
+C0201,Courier 0201,H011,Van,2023-12-12,Active,52
+C0202,Courier 0202,H010,Van,2024-10-18,Active,61
+C0203,Courier 0203,H007,Motorbike,2022-09-09,Active,44
+C0204,Courier 0204,H007,Bicycle,2023-01-12,Active,42
+C0205,Courier 0205,H001,Van,2024-12-09,Active,73
+C0206,Courier 0206,H012,Motorbike,2022-06-02,Active,42
+C0207,Courier 0207,H012,Bicycle,2022-02-15,Active,28
+C0208,Courier 0208,H004,Bicycle,2023-02-09,Active,23
+C0209,Courier 0209,H002,Motorbike,2024-11-05,Active,50
+C0210,Courier 0210,H005,Covered Van,2024-07-28,Active,51
+C0211,Courier 0211,H009,Motorbike,2024-04-14,Active,24
+C0212,Courier 0212,H012,Covered Van,2022-09-11,Active,53
+C0213,Courier 0213,H002,Motorbike,2024-08-26,Active,42
+C0214,Courier 0214,H004,Motorbike,2022-07-04,Active,42
+C0215,Courier 0215,H010,Bicycle,2023-04-14,On Leave,39
+C0216,Courier 0216,H001,Motorbike,2023-07-22,Active,53
+C0217,Courier 0217,H012,Motorbike,2024-06-19,Active,38
+C0218,Courier 0218,H012,Motorbike,2024-06-22,Active,33
+C0219,Courier 0219,H003,Covered Van,2023-10-21,Active,58
+C0220,Courier 0220,H002,Motorbike,2021-10-23,Active,54

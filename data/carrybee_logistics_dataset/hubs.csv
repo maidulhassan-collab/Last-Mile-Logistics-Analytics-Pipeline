@@ -1,0 +1,13 @@
+hub_id,hub_name,city,zone,daily_capacity,opened_date
+H001,Tejgaon Central Hub,Dhaka,Tejgaon,4200,2022-01-15
+H002,Uttara Hub,Dhaka,Uttara,2800,2022-06-01
+H003,Jatrabari Hub,Dhaka,Jatrabari,2500,2023-01-10
+H004,Agrabad Hub,Chattogram,Agrabad,2400,2022-08-20
+H005,Gazipur Hub,Gazipur,Tongi,2000,2023-02-11
+H006,Narayanganj Hub,Narayanganj,Chashara,1800,2023-04-05
+H007,Cumilla Hub,Cumilla,Kandirpar,1500,2023-06-17
+H008,Sylhet Hub,Sylhet,Zindabazar,1500,2023-07-12
+H009,Rajshahi Hub,Rajshahi,Boalia,1300,2023-09-01
+H010,Khulna Hub,Khulna,Sonadanga,1300,2023-10-08
+H011,Rangpur Hub,Rangpur,Dhap,1000,2024-01-20
+H012,Mymensingh Hub,Mymensingh,Maskanda,1000,2024-03-12
